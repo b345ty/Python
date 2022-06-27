@@ -29,3 +29,15 @@ print ("I am a year older " + str(age) + " years today.")
 birthday  = 1
 age += birthday
 print (age)
+
+print ('\n')
+#Functions
+print ("Here is an example of a function:")
+def who_am_i(): # This is a function
+    name = "Sipho" # String "Sipho"
+    age = 50       # Integer (50)
+    gpl = 3.7      # Float   (3.7)
+    print ("My name is " + name + " and my age is " + str(age) + " years old.") 
+who_am_i()
+
+
