@@ -5,7 +5,7 @@ print (50 + 50) # Addition
 print (50 - 50) # Subtraction
 print (50 / 50) # Division
 print (50 * 2)  # Multiply
-print (50 ** 2) # Power Of
+print (50 ** 2) # Exponents
 print (50 + 50 - 50 * 50 / 50) 
 
 # PEMDAS is P, E, MD, AS; multiplication and division have the same precedence, 
